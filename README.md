@@ -1,8 +1,8 @@
 ## vue-movie
 ***
-- Download ZIP
+- Clone and download
 ```
-点击 clone and download ；
+  Download ZIP；
 ```
 - Project setup
 ```
