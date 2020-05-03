@@ -1,6 +1,9 @@
 ## vue-movie
 ***
-
+- Download ZIP
+```
+点击 clone and download ；
+```
 - Project setup
 ```
 npm install
