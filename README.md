@@ -2,7 +2,7 @@
 ***
 - Clone and download
 ```
-  Download ZIP；
+Download ZIP；
 ```
 - Project setup
 ```
