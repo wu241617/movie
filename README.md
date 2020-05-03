@@ -1,6 +1,6 @@
-# movie
+# vue-movie
 
-## Project setup
+- 下载源码
 ```
 npm install
 ```
