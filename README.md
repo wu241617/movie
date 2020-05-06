@@ -1,5 +1,6 @@
 ## vue-movie
 ***
+###### 运行过程:
 - Clone and download
 ```
 Download ZIP；
